@@ -1,1 +1,1 @@
-growth-mindset-app
+growth-mindset-project
